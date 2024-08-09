@@ -1,0 +1,46 @@
+*{
+  margin: 0px;
+}
+
+nav{
+  color: #FFE8C6;
+  background-color: #5A5353;
+  text-align: right;
+  padding: 20px;
+}
+
+nav > ul > li{
+  display: inline;
+  padding: 19px;
+  margin: 6px;
+}
+
+nav > ul > li:hover{
+  background-color: #FFE8C6;
+  color: #5A5353;
+}
+
+.image-box{
+  position: relative;
+  left: 640px;
+}
+
+#header-1,p{
+  text-align: center;
+  color:#5A5353;
+padding: 13px;
+}
+
+#form-box{
+background-color: rgba(90, 83, 83, 0.6);
+height: 250px;
+}
+
+
+#in-box{
+  margin: 4px solid black;
+    display: inline;
+    color: black;
+    background-color: #FFE8C6;
+    
+}
